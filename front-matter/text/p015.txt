@@ -1,0 +1,71 @@
+UNTDED 2005
+
+Trade Procedures, now UN/CEFACT, its Forum and empowered groups - is composed of
+inter-governmental and non-governmental bodies and of representatives of ISO national
+Member Bodies, of ISO TCs (Technical Committees) and ISO/IEC JTC1 SCs (Sub-
+Committees) concerned, as set out below, each being entitled to appoint one official
+participant (head of delegation).
+
+2.3.1. Inter-governmental and non-governmental bodies
+
+The following inter-governmental and non-governmental bodies have requested to be
+associated with the maintenance work:
+
+- CCC Customs Cooperation Council: use WCO
+
+- CIT International Railway Transport Committee
+
+- FIATA International Federation of Freight Forwarders Associations
+
+- IATA International Air Transport Association
+
+- ICC International Chamber of Commerce
+
+- ICS International Chamber of Shipping
+
+- IMO International Maritime Organization
+
+- IRU International Road Transport Union
+
+- OASIS Organization for the Advancement of Structured Information Standards
+[UBL TC Universal Business Language Technical Committee]
+
+- UIC International Union of Railways
+
+- UN/CEFACT United Nations/Centre for Trade Facilitation
+and Electronic Business
+- UNCTAD _— United Nations Conference on Trade and Development
+- UPU Universal Postal Union
+- WCO World Customs Organization, established as CCC
+
+2.3.2 International Organization for Standardization
+
+The membership of the ISO 7372/MA shall be open to one official representative (head of
+delegation) from each of the ISO Member bodies being ISO/TC154 P members
+
+and the following technical bodies:
+
+- ISO/TC37 Terminology and other language resources
+
+- ISO/TC46 Information and documentation
+
+- ISO/TC68 Financial services
+
+- ISO/TC154 Processes, data elements and documents in commerce, industry
+and administration
+
+- ISO/TC184 Industrial automation systems and integration
+
+- ISO/TC204 Intelligent transport systems
+
+- ISO/TC215 Health informatics
+
+- ISO/IEC JTC1/SC31 Automatic identification and data capture techniques
+- ISO/IEC JTC1/SC32 Data management and interchange
+
+2.3.3 Associate members
+
+At the proposal of MA, other international organizations may be invited to become associate
+members of the MA and to appoint a representative.
+
+Page 7 ISO 7372:2005(E)

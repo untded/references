@@ -1,0 +1,45 @@
+UNTDED 2005
+
+1.6 Explanation of the contents of the Directory
+
+In addition to this introduction, the Directory contains the following sections:
+
+Section 2 provides rules and procedures for maintenance.
+Section 3 reserved for future indexes
+Section 4 is the main part of the Directory and contains the complete list of standard data
+
+elements presented as described in 1.6 and 1.7 hereafter. In principle, each
+entry in this part should be self-contained and consultation of other parts of the
+Directory or outside sources should be required only exceptionally;
+
+1.7 Presentation of data elements in the Directory
+Each identified data element has been given:
+a) adata element name;
+
+b) adescription of the concept to explain the agreed meaning and to aid in determining the
+content of the information (data value) to be provided with the data element;
+
+c)  aspecification of the character representation of the data value, with indication of space
+(in number of characters) available and location in aligned forms, and of field lengths
+where such have been established in particular interchange protocols;
+
+and, when applicable or required:
+
+1) notes providing additional information;
+
+2) references to other parts of the Directory, or to other sources, as appropriate;
+
+3) synonyms of data element names where such are widely used.
+
+The values of a data element can either be expressed in plain language or in code, and it is
+recognized that there will be a need to refer to either of these versions, and sometimes to both.
+
+1.8 Availability of the UNTDED and ISO 7372
+
+e The UNTDED (Vol. I) can be obtained from the ECE/TRADE Division, Palais des
+Nations, CH-1211 Geneva 10, Fax: +41 22 9170037.
+
+e = ISO _ 7372 is available from ISO Central Secretariat, 1, Rue de Varembé, CH-1211
+Geneva 20.
+
+Page 5 ISO 7372:2005(E)

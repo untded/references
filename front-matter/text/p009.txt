@@ -1,0 +1,43 @@
+UNTDED 2005
+
+Section
+
+1 INTRODUCTION
+
+1.1 Scope, content and sources
+
+The standard data elements included in this Directory are intended to facilitate an open
+interchange of data in international trade.
+
+These standard data elements can be used with any method for data interchange on paper
+documents as well as with other means of data processing and communication: they can be
+selected for transmission one by one, or used within a particular system of interchange rules,
+e.g. the United Nations rules for Electronic Data Interchange for Administration, Commerce
+and Transport (UN/EDIFACT), developed within the UN/CEFACT of the United Nations
+Economic Commission for Europe (UNECE) and published as International Standard
+1SO9735.
+
+This Directory has been compiled by the TDED Maintenance Agency (see Section 2 below),
+on the basis of the work within this UN/CEFACT, as well as work within other Maintenance
+Agency members as specially WCO and IMO. This edition has been adopted by Technical
+Committee ISO/TC 154 and the UN/CEFACT.
+
+Volume I of the Directory constitutes International Standard ISO 7372. Annexes A, B, C and
+D of this International standard are for information only.
+
+Volume II includes the User Code List. The preparation and maintenance of Vol. II is an
+activity of the UN/CEFACT.
+
+Volume III is a Compendium of Trade Facilitation Recommendations. The preparation
+and maintenance of Vol. III is a joint activity of the UNECE and the UN Conference on Trade
+and Development (UNCTAD), Special Programme for Trade Efficiency (SPTE).
+
+The main source of this edition of TDED is the set of UN/EDIFACT directories D.02A:
+
+- Vol. I has been built as a true superset of D.02A EDED = data elements
+
+- Vol. IL is a straight forward subset of D.02A UNCL = codes.
+
+This third edition supersedes the second, 1993 edition of the TDED.
+
+Page | ISO 7372:2005(E)

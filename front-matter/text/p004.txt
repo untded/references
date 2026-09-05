@@ -1,0 +1,81 @@
+UNTDED 2005
+
+4 DATA ELEMENTS
+
+4.1 Presentation, descriptions of categories, abbreviations
+
+4.1.1
+4.1.2
+4.1.3
+4.1.4
+4.1.5
+4.1.6
+4.1.7
+
+Layout of data element entries
+
+Abbreviations of character representations
+
+References concerning character representations
+
+Grouping of data elements into broad categories
+
+Explicit cross-referencing between data elements and codes: () and []
+Categories of data elements, allocation of identifiers (tags)
+
+Data element issue numbering
+
+4.2 Trade Data Elements Directory TDED
+
+4.2.0
+4.2.1
+4.2.2
+4.2.3
+4.2.4
+4.2.5
+4.2.6
+4.2.7
+4.2.8
+4.2.9
+
+ISO 7372:2005(E)
+
+(0001-0699) Service data elements
+
+(1000-1699) Documentation, references
+
+(2000-2699) Dates, times, periods of time
+
+(3000-3699) Parties, addresses, places, countries
+
+(4000-4699) Clauses, conditions, terms, instructions
+
+(5000-5699) Amounts, charges, percentages
+
+(6000-6699) Measure identifiers, quantities (other than monetary)
+(7000-7699) Goods and articles: descriptions and identifiers
+(8000-8699) Transport modes, means and equipments
+(9000-9699) Other data elements (Customs, etc.)
+
+Page iv
+
+12
+12
+12
+13
+14
+14
+16
+17
+17
+18
+18
+18
+18
+18
+18
+18
+18
+19
+19
+19
