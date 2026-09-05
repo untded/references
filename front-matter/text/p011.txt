@@ -1,0 +1,57 @@
+UNTDED 2005
+
+1.2.2. UN and UN/CEFACT Recommendations (2)
+
+Recommendation No. 1 | United Nations Layout Key for Trade Documents;
+reflected as ISO 6422:1985, 8439:1990 and 8440:1986 and
+Corr.1:2000
+
+Recommendation No. 6 | Aligned Invoice Layout Key for International Trade
+
+Recommendation No. 8 | Unique Identification Code Methodology — UNIC
+
+Recommendation No. 11 | Documentary Aspects of the International Transport of
+Dangerous Goods
+
+Recommendation No. 12 | Measures to Facilitate Maritime Transport Documents
+Procedures
+
+Recommendation No. 15 | Simpler Shipping Marks
+
+Recommendation No. 22 | Layout Key for Standard Consignment Instructions
+
+Recommendation No. 25 | Use of the United Nations Electronic Data Interchange for
+Administration, Commerce and Transport (UN/EDIFACT)
+
+1.3 Definitions
+
+For the purpose of this International Standard, the following definitions apply.
+
+1.3.1 alphabetic character set: a character set that contains letters and may contain control
+characters, and special characters, but not digits (Source: ISO 2382/4).
+
+1.3.2 alphanumeric character set: a character set that contains both letters and digits and
+may contain control characters, and special characters (Source: [ISO 2382/4).
+
+1.3.3. blank (Character): a character that represents an empty position in a graphic
+character string (Source: ISO 2382/4).
+
+1.3.4 character: a member of a set of elements that is used for the representation,
+organization, or control of data (Source: ISO 2382/4).
+
+1.3.5 character set: a finite set of different characters that is complete for a given purpose
+(Source: ISO 2382/4).
+
+1.3.6 code: a collection of rules that maps the data elements of one set on to the elements of
+a second set (Source: ISO 2382/4).
+
+1.3.7 data: a representation of facts, concepts or instructions in a formalized manner
+suitable for communication, interpretation or processing by human beings or by automatic
+means (Source: [SO 2382/1).
+
+1.3.8 data element: a unit of data that in a certain context is considered indivisible (Source:
+ISO 2382/4). Unit of data described in a data element specification (Source: ISO 9735:2002).
+
+(2) Available from the UN/ECE Trade Division, Palais des Nations CH-1211, Geneva 10 (Volume III of UNTDED)
+
+Page 3 ISO 7372:2005(E)

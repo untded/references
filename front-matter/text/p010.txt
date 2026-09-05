@@ -1,0 +1,105 @@
+UNTDED 2005
+
+1.2 References
+
+1.2.1. International Standards (1)
+
+The following standards contain provisions, which, through reference in this text, constitute
+provisions of this International Standard. All standards are subject to revision, and parties to
+agreements based on this International Standard are encouraged to investigate the possibility
+of applying the most recent editions of the standards indicated below. Members of IEC and
+ISO maintain registers of currently valid International Standards.
+
+Dates provided in the table below are based upon checking the ISO website 2004-09-08
+
+ISO 216:1975
+
+Writing paper and certain classes of printed matter - Trimmed sizes - A
+and B series
+
+ISO 639-1:2002
+ISO 639-2:1998
+
+Codes for the representation of names of languages
+-- Part 1: Alpha-2 code
+-- Part 2: Alpha-3 code
+
+ISO 1000:1992
+and Amd 1:1998
+
+SI units and recommendations for the use of their multiples and of
+certain other units
+
+ISO/IEC 2382-1:1993
+
+Information technology -- Vocabulary -- Part 1: Fundamental terms
+
+ISO 2784:1974
+
+Continuous forms used for information processing - Sizes and sprocket
+feed holes
+
+ISO 2955:1983
+
+Information processing - Representation of SI and other units for use in
+systems with limited character sets (Withdrawn)
+
+ISO 3166-1:1997
+ISO 3166-2:1998
+ISO 3166-3:1999
+
+Codes for the representation of names of countries and their
+subdivisions
+
+-- Part 1: Country codes
+
+-- Part 2: Country subdivision code
+
+-- Part 3: Code for formerly used names of countries
+
+ISO 3535:1977
+
+Forms design sheet and layout chart
+
+ISO 4217:2001
+
+Codes for the representation of currencies and funds
+
+ISO 6346:1995
+
+Freight containers - Coding, identification and marking
+
+ISO 6422:1985
+
+Layout Key for trade documents
+
+ISO 8601:2004
+
+Data elements and interchange formats - information interchange —
+representation of dates and times
+
+ISO/IEC 8859-1:1998
+ISO/IEC 8859-2:1999
+ISO/TEC 8859-5:1999
+ISO/IEC 8859-7:2003
+
+Information processing - 8 bit single-byte coded graphic character sets-
+Part 1: Latin alphabet No. 1
+
+Part 2: Latin alphabet No. 2
+
+Part 5: Latin/Cyrillic alphabet
+
+Part 7: Latin/Greek alphabet
+
+ISO 9735:2002-1/10
+
+Electronic data interchange for administration, commerce and transport
+(EDIFACT) -- Application level syntax rules
+
+(1) Available from the International Organization for Standardization (ISO), 1, Rue de Varembé CH - 1211 Geneva 20
+
+ISO 7372:2005(E)
+
+Page 2
+

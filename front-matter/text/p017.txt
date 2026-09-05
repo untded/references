@@ -1,0 +1,56 @@
+UNTDED 2005
+
+If it is proposed to change the name or description of a data element in such a way that,
+without substantially changing the concept, its application area is extended or further
+clarified, the numeric identifier may be retained provided that there are no objections from
+users who might be adversely affected by the change.
+
+2.4.2.2 Change in the concept of a data element
+
+A change in a concept of a data element will result in the assignment of a new numeric
+identifier.
+
+The previous concept and identifier will be retained for a transitional period of time, to be
+determined in each case after consultation with users.
+
+2.4.2.3 Addition of data elements
+
+Any new data element agreed upon by the MA for inclusion in the TDED will be assigned a
+numeric identifier within the group to which the data element belongs. This applies also to
+provisional data elements.
+
+2.4.2.4 Deletion of data elements
+
+Data elements marked for deletion (with only tag, name and date of deletion) shall stay
+forever in the Directory, with provision of the migration path “use instead: ...”. Hence the
+numeric identifier of a data element marked for deletion shall not be re-used for a new data
+element.
+
+2.4.3. Technical Assessment Checklist (TAC)
+
+The MA, recognizing that:
+
+- its Data Maintenance Request (DMR) procedures shall be predictable, fully documented
+and transparent,
+
+- the best available tool is the Core Component Technical Assessment Checklist (cc TAC,
+see ISO/TS15000-5 ebXML CCTS), and that in addition,
+
+- the ISO 7372/MA DMR procedures shall be, where relevant, fully consistent with the
+UN/CEFACT DMR procedures,
+
+the MA resolved to have the possibility of issuing and applying a Technical Assessment
+Checklist (TAC) for the production of a later edition of TDED.
+
+2.5 Consultation of members of the MA
+
+Proposals received by the MAS shall be circulated to MA members along with suggestions by
+the secretariat as appropriate, for response within a specified period of time, normally not less
+than two months. The need for MA members to institute internal consultations before
+committing themselves will be taken into account by the MAS in determining the time for
+response.
+
+Before circulating a proposal, the MAS shall endeavour to assess the implications of this
+proposal on data element applications, which are known to it. For this purpose, the MA
+
+Page 9 ISO 7372:2005(E)

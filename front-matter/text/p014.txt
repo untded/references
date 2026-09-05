@@ -1,0 +1,52 @@
+UNTDED 2005
+
+Section
+
+2 MAINTENANCE OF THE TRADE DATA ELEMENTS DIRECTORY
+
+Volume I of TDED is continuously updated, based on a review by the Maintenance Agency.
+Amendments and additions are subsequently incorporated in the Directory.
+
+2.1 Introduction
+
+A joint UNECE - ISO Maintenance Agency is entrusted with the maintenance of the Trade
+Data Elements Directory (TDED), also known as the United Nations Trade Data Elements
+Directory (UNTDED) and as the International Standard ISO 7372, in order to keep
+UNTDED/ISO7372 up to date to meet changing or new requirements in trade. The
+membership and procedures of the MA, as set out below, have been designed to reflect the
+dual nature of the TDED as an intergovernmental recommendation and a non-governmental
+ISO International Standard.
+
+The ISO Council, in accordance with the provisions of Annex 1G of the Directives for the
+technical work of ISO, has designated an ISO 7372 Maintenance Agency (ISO 7372/MA).
+The ISO 7372/MA together with the maintenance function set up by the UNECE WP.4
+Working Party on Facilitation of International Trade Procedures (now UN/CEFACT),
+jointly constitute the TDED Maintenance Agency, hereafter referred to as MA.
+
+2.2 Role of the Maintenance Agency
+
+The MA, as authorized by the UNECE WP.4 and by the ISO Council, is entrusted with the
+following functions:
+
+a) To add to or to eliminate data elements from TDED and to assign numeric identifiers
+(tags) in accordance with the rules provided in Section 5 of TDED;
+
+b) To inform interested parties appropriately of such changes, etc.;
+
+c) To prepare periodically and disseminate amendment sheets to users in order to allow
+proper up-dating of TDED;
+
+d) To establish as required, in the normal course of work, additional rules for the practical
+application of the principles for:
+- selecting data elements and assigning them a name and a numeric identifier (tag);
+- grouping data elements into broad categories;
+
+- the presentation of standard data elements and their use for international trade
+information interchange.
+
+2.3 Membership
+
+The secretariat of UNECE and the ISO Central Secretariat participate ex officio in the MA,
+whose membership - besides the UNECE WP4 Working Party on Facilitation of International
+
+ISO 7372:2005(E) Page 6

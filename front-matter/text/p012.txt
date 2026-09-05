@@ -1,0 +1,65 @@
+UNTDED 2005
+
+1.3.9 data element tag: a unique identifier for a data element in a data elements directory
+(Source: ISO 9735:1988).
+
+1.3.10 data element value: specific instance of a simple data element, represented as
+specified in a simple data element specification and, if the simple data element is coded, in a
+
+code list (Source: ISO 9735:2002).
+
+1.3.11 data element value length: the number of characters in a data element value (Source:
+ECE).
+
+1.3.12 digit (Numeric character): a graphic character that represents a non-negative integer
+(Source: ISO 2382/4).
+
+1.3.13 letter: a graphic character that, when appearing alone or combined with others, is
+primarily used to represent a sound element of a spoken language (Source: ISO 2382/4).
+
+1.3.14 numeric character set: a character set that contains digits and may contain control
+characters and special characters, but not letters (Source: ISO 2382/4).
+
+1.3.15 special character: a graphic character that is not a letter, a digit, or blank character,
+and usually not an ideogram (Source: ISO 2382/4).
+
+1.4 Abbreviations
+
+The following acronyms or abbreviations are used for making reference to documents,
+conventions and interchange standards:
+
+AWB IATA Air Waybill
+
+CIM Rail Consignment Note (CIM Convention)
+
+CIMP IATA Cargo Interchange Message Procedures Manual
+(CARGO-IMP manual)
+
+CMR Road Consignment Note (CMR Convention)
+
+EC European Communities
+
+EFTA European Free Trade Association
+
+IATA International Air Transport Association
+
+ICC International Chamber of Commerce (ICC)
+
+INV United Nations Layout Key for Aligned Invoices
+
+MAR IMO Model forms and ICS Standard Bill of Lading
+
+SAD Single Administrative Document (EC and EFTA)
+
+SWIFT Society for Worldwide Interbank Financial Telecommunication
+
+UNLK United Nations Layout Key
+
+UNSM United Nations Standard Message (UN/EDIFACT)
+
+1.5 Character sets
+
+The characters in ISO 8859 shall be used for the representation of the data elements in this
+Directory.
+
+ISO 7372:2005(E) Page 4
