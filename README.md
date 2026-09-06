@@ -19,10 +19,10 @@ publication with the UNECE Secretariat.
 | Path | What it is |
 |---|---|
 | `UNTDED2005.pdf` | Full original scan, 132 pp (damaged xref — render with `mutool`, not `pdftoppm`) |
-| `UNTDED2005_Redacted.pdf` | Working copy: pp. 20–132 carry the OCR text layer used for extraction; pp. 1–4, 9–19 blanked; pp. 5–8 a repeated inserted note |
+| `UNTDED2005_Redacted.pdf` | Working copy: pp. 20–132 carry the OCR text layer used for extraction; pp. 1–4, 9–19 blanked; pp. 5–8 the original Volumes II/III note + Foreword with a text layer |
 | `front-matter/` | 300 dpi renders + tesseract OCR of pp. 1–4, 9–19 (from the original) |
 | `section-4.1-presentation.txt` | Text layer of section 4.1 — the printed change-tag legend |
-| `edifact-D05B/` | Mirror of the UN/EDIFACT D.05B directory metadata used for cross-checking + the cross-check report |
+| `edifact-D05B/` | Mirror of the UN/EDIFACT D.05B directory metadata used for cross-checking + the cross-check report: `segments.xml` (EDED-by-segment) and `codes.xml` (UNCL code values, short names — fetched 2026-09-07) |
 | `AGENT-PROMPT-digitization.md` | The original digitization brief (provenance) |
 
 ## Attribution
