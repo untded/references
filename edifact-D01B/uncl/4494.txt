@@ -1,0 +1,7 @@
+
+     4494  Insurance cover description                             [B]
+
+     Desc: Free form description of the insurance cover.
+
+     Repr: an..35
+

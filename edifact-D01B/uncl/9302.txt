@@ -1,0 +1,7 @@
+
+     9302  Sealing party name                                      [B]
+
+     Desc: Name of the sealing party.
+
+     Repr: an..35
+

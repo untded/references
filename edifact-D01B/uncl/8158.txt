@@ -1,0 +1,9 @@
+
+     8158  Orange hazard placard upper part identifier             [B]
+
+     Desc: To specify the identity number for the upper part of
+           the orange hazard placard required on the means of
+           transport.
+
+     Repr: an..4
+

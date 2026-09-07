@@ -1,0 +1,7 @@
+
+     6162  Range minimum value                                     [C]
+
+     Desc: To specify the minimum value of a range.
+
+     Repr: n..18
+

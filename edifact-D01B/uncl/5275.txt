@@ -1,0 +1,7 @@
+
+     5275  Supplementary rate or tariff code                       [B]
+
+     Desc: Code specifying a supplementary rate or tariff.
+
+     Repr: an..6
+

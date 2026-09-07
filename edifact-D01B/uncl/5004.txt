@@ -1,0 +1,7 @@
+
+     5004  Monetary amount                                         [C]
+
+     Desc: To specify a monetary amount.
+
+     Repr: n..35
+

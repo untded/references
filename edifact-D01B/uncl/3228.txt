@@ -1,0 +1,7 @@
+
+     3228  Country sub-entity name                                 [C]
+
+     Desc: Name of a country sub-entity.
+
+     Repr: an..70
+

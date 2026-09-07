@@ -1,0 +1,7 @@
+
+     1496  Goods item number                                       [B]
+
+     Desc: To specify a goods item within a consignment.
+
+     Repr: n..5
+

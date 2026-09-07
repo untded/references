@@ -1,0 +1,1925 @@
+
+     1131  Code list identification code                           [C]
+
+     Desc: Code identifying a user or association maintained code
+           list.
+
+     Repr: an..17
+
+X    1     Logistics code list
+              Code list containing logistics and program management
+              activities.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    2     ICD 9
+               A code list containing the International Classification
+              of Diseases, version 9 (ICD 9).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    3     Operating status
+              Code list identifying operating status of an entity.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    4     DoDAAC (Department of Defense Activity Address Code)
+              A code list containing codes assigned to operating
+              military units to identify the name and address of the
+              unit.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    5     Facility identification
+              A code list identifying a facility(ies).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    6     Application acknowledgement and error codes
+              A code list to identify acknowledgement and error codes
+              applicable at the application level.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    7     Health industry organization identification
+              List of codes identifying organizations in the health
+              care industry.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    8     Electromagnetic transmitter identification
+              A code list containing electromagnetic transmitter
+              identifications.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    9     Military Assistance Program Address Code (MAPAC)
+              Lists of codes identifying name and address information
+              for organizations participating in a military assistance
+              program.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    10    Medicare provider
+              A list of codes identifying health care providers under
+              the Medicare program.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    11    Medicaid provider
+              A list of codes identifying health care providers under
+              a Medicaid program.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    12    Telephone directory
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    13    Employee identification
+              A list of codes identifying employees of an
+              organization.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    14    Sample extraction location
+              Code list identifying the location from which a sample
+              is taken.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    15    Medical benefits schedule
+              Code list containing classifications of medical services
+              for use in determining the medical benefits payable.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    16    Postcode directory
+              [3251] Code defining postal zones or addresses.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    17    ICD 10
+              Code list containing the International Classification of
+              Diseases, version 10 (ICD 10).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    18    Diagnosis Related Group (DRG)
+              Code list containing diagnosis related group
+              classifications.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    19    Standard text clauses
+              A list of codes representing standardized text clauses.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    20    United Nations Standard Products and Services
+           Classification (UN/SPSC) code
+              A code list that provides a hierarchical classification
+              of goods and services for the purposes of resource
+              discovery and spend analysis.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    21    Policy on claim indicator
+              Identifies a code list containing indicators referring
+              to policy on claims.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    22    EDIRA-Id (EDI Registration Authority Identification)
+              A code list specifying codes assigned by the EDI
+              Registration Authority to register organizations (legal
+              persons, partnerships, sole proprietorships and their
+              branch offices) and private persons.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    23    Clearing house automated payment
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    24    Rail handling restrictions and instructions
+              A code list specifying rail codes for handling
+              restrictions or instructions.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    25    Bank identification
+              Code for identification of banks.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    26    Rail harmonized equipment type
+              A code list specifying codes for harmonized equipment
+              type in the railway industry.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    27    Railway frontier and transit point
+              A code list specifying frontier or transit points in the
+              railway industry.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    33    Commercial And Government Entity (CAGE)
+              List of codes identifying a commercial and government
+              entity.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    34    Reinsurance policy attributes
+              A list of attributes regarding policies reinsured with a
+              professional reinsurer.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    35    Rail additional charges
+              A code list identifying specific rail charges included
+              in the payment conditions in addition to the freight
+              cost.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    36    Railway company network
+              A code list identifying the different railway companies
+              as member of the International Union of Railways.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    37    Railway locations
+              Code identifying a location in railway environment.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    38    Railway customer
+              A code list identifying rail customers.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    39    Rail unified nomenclature of goods
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    40    Reinsurance monetary type
+              Identifies the type of reinsurance amounts.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    42    Business function
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    43    Clearing House Interbank Payment System Participants ID
+              Participants identification of the automated clearing
+              house of the New York Clearing House Association
+              (CHIPS).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    44    Clearing House Interbank Payment System Universal ID
+              Universal identification of the automated clearing house
+              of the New York Clearing House Association (CHIPS).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    45    United Nations Common Coding System (UNCCS)
+              A code list adopted by the United Nations organisations
+              for the procurement of goods and services.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    46    DUNS (Dun and Bradstreet) +4
+              An organization identified by the DUNS number and a 4-
+              character extension.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    47    Occupation classification
+              Identifies the class of occupation.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    48    Policy reserve valuation type
+              Identification of the policy reserve valuation type.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    49    Life reinsurance message type
+              To indicate the type of life reinsurance activity
+              transmitted in the message.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    52    Value added tax identification
+              Value added tax identification code.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    53    Passport number
+              Number assigned to a passport.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    54    Statistical object
+              A statistical object such as a statistical concept,
+              array structure component or statistical nomenclature.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    55    Quality conformance
+              A code list specifying the quality standard a product
+              complies with, e.g. ISO9000, BS5750, etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    56    Safety regulation
+              A code list specifying the safety regulations which
+              apply to a product, such as UK COSHH (control of
+              substances hazardous to health) regulations.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    57    Product code
+              Code assigned to a specific product by a controlling
+              agency.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    58    Business account number
+              An identifying number or code assigned by issuing
+              authorities to manage business activities.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    59    Railway services harmonized code
+              Services provided by the different railway
+              organizations.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    60    Type of financial account
+              Identification of the type of financial account.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    61    Type of assets and liabilities
+              Identification of the type of assets and liabilities.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    62    Requirements indicator
+              A code list which specifies various requirements that a
+              customer may have when fulfilling a purchase order.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    63    Handling action
+              Codes for handling action.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    64    Freight forwarder
+              Codes for freight forwarders.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    65    Shipping agent
+              Codes for shipping agents.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    67    Type of package
+              Indication of the type of package codes.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    68    Type of industrial activity
+              Identification of the type of industrial activity.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    69    Type of survey question
+              Identification of the type of survey question.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    70    Customs inspection type
+              A code to indicate the type of inspection performed by
+              customs.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    71    Nature of transaction
+              Identification of the nature of the transaction.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    72    Container terminal
+              Codes for container terminal.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    73    Insurance information indicator
+              Identifies the type of insurance information provided.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    74    Joint life insurance indicator
+              Indicates joint life insurance coverage.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    75    Bill of lading clauses
+              Code list identifying official clauses associated with
+              bills of lading.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    76    Export commodity classification (US Schedule B)
+              Code list containing the commodity classifications
+              applying to goods being exported (United States Schedule
+              B).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    77    Customs domestic port location codes (US Schedule D)
+              Code list containing Customs domestic port locations
+              (United States Schedule D).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    78    Customs foreign port location codes (US Schedule K)
+              Code list containing Customs foreign port locations
+              (United States Schedule K).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    79    Functional group
+              Identifies a group of application related messages.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    80    Application error code
+              A code list specifying application errors.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    81    Policy type
+              To identify the code list for the type of policy.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    82    Type of insured
+              To specify the insured type.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    83    Occupation code
+              Identification of an occupation.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    84    State code
+              A code list of states within a country.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    85    Technical Assessment Checklist (TAC)
+              A code list of technical assessment checklist numbers.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    86    Syntax notes
+              A code list of syntax (dependency) note identifiers.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    100   Enhanced party identification
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    101   Air carrier
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    102   Size and type
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    103   Call sign directory
+              A directory of call signs assigned to transport
+              vehicles.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    104   Customs area of transaction
+              Customs code to indicate the different types of
+              declarations according to the countries involved in the
+              transaction (e.g. box 1/1 of SAD: inter EC Member
+              States, EC-EFTA, EC-third countries, etc.).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    105   Customs declaration type
+              Customs code to indicate the type of declaration
+              according to the different Customs procedures requested
+              (e.g.: import, export, transit).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    106   Incoterms 1980
+              (4110) Code to indicate applicable Incoterm (1980
+              edition) under which seller undertakes to deliver
+              merchandise to buyer (ICC). Incoterms 1990: use 4053
+              only.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    107   Excise duty
+              Customs or fiscal authorities code to identify a
+              specific or ad valorem levy on a specific commodity,
+              applied either domestically or at time of importation.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    108   Tariff schedule
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    109   Customs indicator
+              Customs code for circumstances where only an indication
+              is needed.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    110   Customs special codes
+              Customs code to indicate an exemption to a regulation or
+              a special Customs treatment.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    112   Statistical nature of transaction
+              Indication of the type of contract under which goods are
+              supplied.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    113   Customs office
+              Customs administrative unit competent for the
+              performance of Customs formalities, and the premises or
+              other areas approved for the purpose by the competent
+              authorities (CCC).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    114   Railcar letter marking
+              Codes for all marking codes (in letters) for railcars
+              specifying the type, series, order number, check digit
+              and some technical characteristics.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    115   Examination facility
+              Building or location where merchandise is examined by
+              Customs.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    116   Customs preference
+              Customs code to identify a specific tariff preference.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    117   Customs procedure
+              (9380) Customs code to identify goods which are subject
+              to Customs control (e.g. home use, Customs warehousing,
+              temporary admission, Customs transit).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    118   Government agency procedure
+              Treatment applied by a government agency other than
+              Customs to merchandise under their control.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    119   Customs simplified procedure
+              Customs code to indicate the type of simplified Customs
+              procedure requested by a declarant (CCC).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    120   Customs status of goods
+              Customs code to specify the status accorded by Customs
+              to a consignment e.g. release without further formality,
+              present supporting documents for inspection, etc (CCC).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    121   Shipment description
+              Code to indicate whether a shipment is a total, part or
+              split consignment.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    122   Commodity
+              (7357) Code identifying types of goods for Customs,
+              transport or statistical purposes (generic term).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    123   Entitlement
+              Code to indicate the recipient of a charge amount
+              (IATA).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    125   Customs transit guarantee
+              Customs code to identify the type of guarantee used in a
+              transit movement.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    126   Accounting information identifier
+              Identification of a specific kind of accounting
+              information.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    127   Customs valuation method
+              Customs code to identify the valuation method used to
+              determine the dutiable value of the declared goods.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    128   Service
+              Identification of services.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    129   Customs warehouse
+              Identification and/or location of the Customs warehouse
+              in which goods will be or have been deposited (CCC).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    130   Special handling
+              Code to indicate that the nature of the consignment may
+              necessitate use of special handling procedures (IATA).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    131   Free zone
+              Code identifying the zone within a state where any goods
+              introduced are generally regarded, insofar as import
+              duties and taxes are concerned, as being outside the
+              Customs territory and are not subject to the usual
+              Customs control.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    132   Charge
+              Identification of a type of charge.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    133   Financial regime
+              Nature and methods of a transaction from financial
+              viewpoint.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    134   Duty, tax or fee payment method
+              [4390] Method by which a duty or tax is paid to the
+              relevant administration.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    135   Rate class
+              Code to identify a specific rate category.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    136   Restrictions and prohibitions placed on the re-use of
+           designated rail wagons
+              A code list identifying restrictions and prohibitions
+              placed on the re-use of designated rail wagons.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    137   Rail harmonized codification of tariffs
+              A list of rail tariffs, the coding of which has been
+              harmonized.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    139   Port
+              A location having facilities for means of transport to
+              load or discharge cargo.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    140   Area
+              Codes for specific geographic areas e.g. seas, straits,
+              basins etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    141   Forwarding restrictions
+              A code list containing restrictions regarding the
+              forwarding of goods or equipment.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    142   Train identification
+              A code list specifying international train
+              identifications maintained by the UIC (International
+              Union of Railways).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    143   Removable accessories and special equipment on railcars
+              A list of removable accessories and special equipment
+              associated with railcars.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    144   Rail routes
+              A code list identifying routes used in rail transport.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    145   Airport/city
+              As described and published by IATA.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    146   Means of transport identification
+              Code identifying the name or number of a means of
+              transport (vessel, vehicle).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    147   Document requested by Customs
+              Customs code to identify documents requested by Customs
+              in an information interchange.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    148   Customs release notification
+              Authorisation given by Customs to move the goods or not
+              move the goods from the place of registration.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    149   Customs transit type
+              Customs code to indicate the different kinds of transit
+              movement of the goods (e.g. Box 1/3 of the SAD).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    150   Financial routing
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    151   Locations for tariff calculations
+              A list of locations related to tariff calculations.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    152   Materials
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    153   Methods of payment
+              Identification of methods of payment.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    154   Bank branch sorting identification
+              Identification of a specific branch of a bank.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    155   Automated clearing house
+              Identification of automated clearing houses.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    156   Location of goods
+              (3384) Indication of the place where goods are located
+              and where they are available for examination.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    157   Clearing code
+              Identification of the responsible bank/clearing house
+              which has cleared or is ordered to do the clearing.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    158   Terms of delivery
+              Code to identify terms of delivery.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    160   Party identification
+              Identification of parties, corporates, etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    161   Goods description
+              Identification of a type of goods description.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    162   Country
+              Identification of a country.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    163   Country sub-entity
+              (3228) Identification of country sub-entity (region,
+              department, state, province) defined by appropriate
+              authority.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    164   Member organizations
+              Identification of member organizations.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    165   Amendment code (Customs)
+              Customs code indicating the reason for transmitting an
+              amendment to Customs.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    166   Social security identification
+              Code assigned by the authority competent to issue social
+              security identification to identify a person.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    167   Tax party identification
+              Code assigned by a tax authority to identify a party.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    168   Rail document names
+              Rail specific identifications of documents.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    169   Harmonized system
+              Identification of commodities according to the
+              Harmonized System.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    170   Bank securities code
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    172   Carriers
+              Code list identifying carriers.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    173   Export requirements
+              Identification of requirements and regulations
+              established by relevant authorities concerning
+              exportation.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    174   Citizen identification
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    175   Account analysis codes
+              Account service charges list.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    176   Flow of the goods
+              List of statistical codes covering the movement of the
+              goods to be declared (e.g. despatch, arrival).
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    177   Statistical procedures
+              Indication of the statistical procedure to which the
+              goods are subject.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    178   Standard text according US embargo regulations
+              US government regulations prescribe specific standard
+              text usage. Using codes from this code list prevents
+              full text transmission.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    179   Standard text for export according national prescriptions
+              National export regulations prescribe specific standard
+              text usage. Using codes from this code list prevents
+              full text transmission.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    180   Airport terminal
+              Code identifying terminals or other sub-locations at
+              airports.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    181   Activity
+              Code identifying activities.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    182   Combiterms 1990
+              Code to indicate the applicable Combiterm (1990
+              edition), used for the purpose of cost distribution
+              between seller according to Incoterms 1990.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    183   Dangerous goods packing type
+              Identification of package types for the description
+              related to dangerous goods.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    184   Tax assessment method
+              A code to identify the tax assessment method.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    185   Item type
+              A code list defining the level of elaboration of a item
+              such as raw material, component, tooling, etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    186   Product supply condition
+              A code list specifying the rules according to which a
+              product is supplied, e.g. from stock, available on
+              demand, make on order, etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    187   Supplier's stock turnover
+              A code list giving an indication about the level of the
+              supplier's stock turnover.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    188   Article status
+              A code list defining the status of an article from the
+              procurement point of view, e.g. new article, critical
+              article, etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    189   Quality control code
+              A code list specifying how the article is classified
+              according to the quality control point of view, e.g.
+              safety item, subject to regulation, etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    190   Item sourcing category
+              A code list to specify details related to the sourcing
+              of the corresponding item such as provided by the buyer,
+              from a mandatory source, etc.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    191   Dumping or countervailing assessment method
+              A code to identify the method used to determine the
+              dumping or countervailing duty.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    192   Dumping specification
+              Code list to identify types of goods for dumping
+              purposes.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    193   Legal event
+              Identifies a code list of legal events.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    194   Record precedence based on its currency in time
+              Identifies the priority of a record based on its
+              currency in time.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    195   Ownership rights
+              Identifies a code list containing types of ownership
+              rights.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    196   Property ownership extent
+              Identifies a code list containing the extent of legal
+              rights of possession to property.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    197   Monetary function detail
+              Identifies a code list containing monetary function
+              details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    198   Account relationship type
+              Identifies a code list containing types of account
+              relationships.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    199   Account rating
+              Identifies the code list containing account rating
+              types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    200   Loan type
+              Identifies the code list of loan types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    201   Claim type
+              Identifies the code list containing the claim types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    202   Legal case type
+              Identifies the code list containing the type of legal
+              cases.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    203   Court of law event type
+              Identifies the code list containing the type of law
+              events.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    204   Notice type
+              Identifies the code list containing the type of notice.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    205   Ethnicity
+              Identifies the code list containing ethnic types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    206   Individual participation in company
+              Identifies the code list containing the types of
+              participation of an individual within a company.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    207   Real estate asset type
+              Identifies the code list containing the types of real
+              estate assets.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    208   Asset recurrence
+              Identifies the code list containing the types of
+              recurrences of assets.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    209   Construction material
+              Identifies the code list containing types of materials
+              used for construction.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    210   Information request type
+              Identifies a code list containing types of information
+              requests.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    211   Business change
+              Identifies a code list containing business change types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    212   Business credit rating
+              Identifies a code list containing business credit rating
+              types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    213   Corporate financial filing criteria
+              Identifies a code list containing criteria for corporate
+              financial filings.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    214   Reason for public record filing
+              Identifies a code list containing reasons for public
+              record filings.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    215   Registration type
+              Identifies a code list containing registration types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    216   Stock exchange detail
+              Identifies a code list containing stock exchange
+              details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    217   Business legal structure type
+              Identifies a code list containing business legal
+              structure details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    218   Information request result
+              Identifies a code list containing information request
+              results.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    219   Financial information type
+              Identifies a code list containing financial information
+              types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    220   Consolidation detail
+              Identifies a code list containing consolidation details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    221   Condition detail
+              Identifies a code list containing condition details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    222   Financial statement format
+              Identifies a code list containing financial statement
+              formats.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    223   Source of disclosure
+              Identifies a code list containing disclosure sources.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    224   General territory type
+              Identifies a code list containing general territory
+              types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    225   Roadway type
+              Identifies a code list containing roadway types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    226   Roadway detail
+              Identifies a code list containing roadway details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    227   City
+              Identifies a code list containing cities.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    228   County
+              Identifies a code list containing counties. A county is
+              any of the territorial divisions of some countries,
+              forming the chief unit of local administration.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    229   Geographic location
+              Identifies a code list containing geographic locations.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    230   Entity relationship
+              Identifies a code list of entity relationships.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    231   Payment behaviour rating
+              Identifies a code list containing payment behaviour
+              ratings.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    232   Inquiry selection
+              Identifies a code list containing inquiry selections.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    233   Rating summary value
+              Identifies a code list containing rating summary values.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    234   Industry rating
+              Identifies a code list containing industry ratings.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    235   Forecast type
+              Identifies a code list containing forecast types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    236   Hobby
+              Identifies a code list containing hobby types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    237   Functional business area
+              Identifies a code list containing functional business
+              areas.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    238   Current asset details
+              Identifies a code list containing details of the current
+              asset types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    239   Asset details
+              Identifies a code list containing details of the asset
+              types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    240   Current liability details
+              Identifies a code list containing the current liability
+              types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    241   Liability details
+              Identifies a code list containing details of liability
+              types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    242   Financial item reclassification
+              Identifies a code list containing financial item
+              reclassifications.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    243   Financial item allocation
+              Identifies a code list containing financial item
+              allocations.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    244   Reason for financial item detail change
+              Identifies a code list containing reasons for the change
+              in financial item details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    245   Educational institution type
+              Identifies a code list containing educational
+              institution types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    246   Educational study area
+              Identifies a code list containing educational study
+              areas.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    247   Security share type
+              Identifies a code list containing security share types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    248   Insurance coverage detail
+              Identifies a code list containing insurance coverage
+              details.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    249   Property type
+              Identifies a code list containing property types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    250   Data category
+              Identifies a code list containing data categories.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    251   Information type
+              Identifies a code list containing types of information.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    252   Court of law type
+              Identifies a code list containing court of law types.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    253   Region
+              Identifies a code list containing regions that identify
+              an area of the earth's surface, having definable
+              boundaries or characteristics.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    254   Postal service carrier route
+              Identifies a code list containing routes covered by a
+              postal service carrier.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    255   Continent
+              Identifies a code list containing continents, that are
+              any of the main continuous expanses of land.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    256   Postal district
+              Identifies a code list containing territories for the
+              routing of mail.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    257   Non-postal town
+              Identifies a code list containing towns not recognised
+              as a postal entity.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    258   City subdivision
+              Identifies a code list containing subdivisions of a
+              city.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    259   Financial analysis categories
+              Identifies a code list containing financial analysis
+              categories.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    260   Accord Europeen relatif au transport international des
+           marchandises(ADR).
+              A code list identifying dangerous goods for transport
+              purposes.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    261   Consignee's premises
+              Facility controlled by the consignee of cargo.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    262   Consignor's premises
+              Facility controlled by the consignor of cargo.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    263   Packing and/or unpacking facility
+              Facility dedicated to the packing and/or unpacking of
+              cargo.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    264   Storage facility
+              Facility at which goods are stored.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    265   Repair facility
+              Facility at which repairs are carried out.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    266   Marine berth
+              The location within a port where a ship anchors or ties
+              up.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    267   Marine wharf
+              Landing platform where a ship can load and unload.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    268   Gate
+              The location at which access to or from a facility is
+              controlled.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    269   Warehouse
+              A covered facility for the storage and distribution of
+              goods.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    270   Business classification
+              Code list of business classifications.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    271   Facility security clearance
+              Code list specifying the security clearance assigned to
+              a facility.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    272   Individual security clearance
+              Code list specifying the security clearance assigned to
+              an individual.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    273   Means of communications identifier
+              Code list of communication means used to transmit data.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+X    ZZZ   Mutually defined
+              Self explanatory.
+
+           Note: 
+              1. This code value will be removed effective with
+              directory D.04A.
+
+

@@ -1,0 +1,7 @@
+
+     1220  Document copies required quantity                       [B]
+
+     Desc: Quantity of document copies required.
+
+     Repr: n..2
+

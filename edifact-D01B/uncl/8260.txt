@@ -1,0 +1,7 @@
+
+     8260  Equipment identifier                                    [B]
+
+     Desc: To identify equipment.
+
+     Repr: an..17
+

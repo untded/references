@@ -1,0 +1,7 @@
+
+     8028  Means of transport journey identifier                   [B]
+
+     Desc: To identify a journey of a means of transport.
+
+     Repr: an..17
+

@@ -1,0 +1,7 @@
+
+     8213  Transport means identification name identifier          [B]
+
+     Desc: Identifies the name of the transport means.
+
+     Repr: an..9
+

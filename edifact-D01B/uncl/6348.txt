@@ -1,0 +1,8 @@
+
+     6348  Currency rate value                                     [C]
+
+     Desc: To specify the value of the multiplication factor used
+           in expressing currency units.
+
+     Repr: n..4
+

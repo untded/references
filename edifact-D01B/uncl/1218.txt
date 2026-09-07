@@ -1,0 +1,7 @@
+
+     1218  Document originals required quantity                    [B]
+
+     Desc: Quantity of document originals required.
+
+     Repr: n..2
+

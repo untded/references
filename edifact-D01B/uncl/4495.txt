@@ -1,0 +1,7 @@
+
+     4495  Insurance cover description code                        [B]
+
+     Desc: Code specifying the insurance cover.
+
+     Repr: an..17
+

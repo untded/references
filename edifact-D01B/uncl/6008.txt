@@ -1,0 +1,7 @@
+
+     6008  Height dimension value                                  [C]
+
+     Desc: To specify the value of a height dimension.
+
+     Repr: n..15
+

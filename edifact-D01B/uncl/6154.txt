@@ -1,0 +1,7 @@
+
+     6154  Non-discrete measurement name                           [B]
+
+     Desc: Name of a non-discrete measurement.
+
+     Repr: an..70
+

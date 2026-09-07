@@ -1,0 +1,7 @@
+
+     3413  Department or employee name code                        [C]
+
+     Desc: Code specifying the name of a department or employee.
+
+     Repr: an..17
+

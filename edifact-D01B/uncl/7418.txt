@@ -1,0 +1,7 @@
+
+     7418  Hazardous material category name                        [B]
+
+     Desc: Name of a kind of hazard for a material.
+
+     Repr: an..35
+

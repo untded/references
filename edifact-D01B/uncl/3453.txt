@@ -1,0 +1,10 @@
+
+     3453  Language name code                                      [C]
+
+     Desc: Code specifying the language name.
+
+     Repr: an..3
+
+     Note: 
+           1 Use ISO 639-1988.
+

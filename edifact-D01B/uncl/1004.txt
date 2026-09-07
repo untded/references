@@ -1,0 +1,7 @@
+
+     1004  Document identifier                                     [C]
+
+     Desc: To identify a document.
+
+     Repr: an..35
+

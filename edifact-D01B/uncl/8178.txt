@@ -1,0 +1,7 @@
+
+     8178  Transport means description                             [B]
+
+     Desc: Free form description of the means of transport.
+
+     Repr: an..17
+

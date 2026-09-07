@@ -1,0 +1,7 @@
+
+     6060  Quantity                                                [C]
+
+     Desc: Alphanumeric representation of a quantity.
+
+     Repr: an..35
+

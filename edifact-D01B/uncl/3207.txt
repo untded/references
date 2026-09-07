@@ -1,0 +1,11 @@
+
+|    3207  Country name code                                       [C]
+
+|    Desc: Identification of the name of the country or other
+           geographical entity as defined in ISO 3166-1.
+
+     Repr: an..3
+
+     Note: 
+|          1 Use ISO 3166-1 two alpha country code.
+

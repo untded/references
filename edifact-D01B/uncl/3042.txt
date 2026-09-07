@@ -1,0 +1,8 @@
+
+     3042  Street and number or post office box identifier         [C]
+
+     Desc: To identify a street and number and/or Post Office box
+           number.
+
+     Repr: an..35
+

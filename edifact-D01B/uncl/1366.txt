@@ -1,0 +1,7 @@
+
+     1366  Document source description                             [B]
+
+     Desc: Free form description of the source of a document.
+
+     Repr: an..70
+

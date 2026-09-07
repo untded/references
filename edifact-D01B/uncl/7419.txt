@@ -1,0 +1,7 @@
+
+*    7419  Hazardous material category name code                   [B]
+
+     Desc: Code specifying a kind of hazard for a material.
+
+     Repr: an..7
+

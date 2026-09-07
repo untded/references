@@ -1,0 +1,12 @@
+
+|    3229  Country sub-entity name code                            [C]
+
+     Desc: Code specifying the name of a country sub-entity.
+
+     Repr: an..9
+
+     Note: 
+|          1 Recommended use ISO 3166-2. If not applicable, use
+           appropriate code set defined by appropriate national
+           authority.
+

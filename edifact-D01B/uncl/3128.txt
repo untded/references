@@ -1,0 +1,7 @@
+
+     3128  Carrier name                                            [B]
+
+     Desc: Name of a carrier.
+
+     Repr: an..35
+

@@ -1,0 +1,7 @@
+
+     9012  Status reason description                               [B]
+
+     Desc: Free form description of the status reason.
+
+     Repr: an..256
+

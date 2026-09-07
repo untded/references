@@ -1,0 +1,7 @@
+
+     6152  Range maximum value                                     [C]
+
+     Desc: To specify the maximum value of a range.
+
+     Repr: n..18
+

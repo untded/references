@@ -1,0 +1,10 @@
+
+     6345  Currency identification code                            [C]
+
+     Desc: Code specifying a monetary unit.
+
+     Repr: an..3
+
+     Note: 
+           1 Use ISO 4217 three alpha code.
+

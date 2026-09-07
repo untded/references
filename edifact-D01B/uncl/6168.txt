@@ -1,0 +1,7 @@
+
+     6168  Length dimension value                                  [C]
+
+     Desc: To specify the value of a length dimension.
+
+     Repr: n..15
+

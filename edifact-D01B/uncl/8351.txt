@@ -1,0 +1,7 @@
+
+     8351  Hazard identification code                              [B]
+
+     Desc: Code identifying a hazard.
+
+     Repr: an..7
+

@@ -1,0 +1,7 @@
+
+     7224  Package quantity                                        [B]
+
+     Desc: To specify the number of packages.
+
+     Repr: n..8
+

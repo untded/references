@@ -1,0 +1,7 @@
+
+     3127  Carrier identifier                                      [B]
+
+     Desc: To identify a carrier.
+
+     Repr: an..17
+

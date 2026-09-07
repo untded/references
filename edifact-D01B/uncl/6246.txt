@@ -1,0 +1,7 @@
+
+     6246  Temperature value                                       [B]
+
+     Desc: To specify the value of a temperature.
+
+     Repr: n..15
+

@@ -1,0 +1,7 @@
+
+     8332  Equipment plan description                              [B]
+
+     Desc: Free form description of the equipment plan.
+
+     Repr: an..26
+

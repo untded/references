@@ -1,0 +1,7 @@
+
+     8022  Freight and other charges description                   [B]
+
+     Desc: Free form description of freight and other charges.
+
+     Repr: an..26
+

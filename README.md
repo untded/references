@@ -24,6 +24,7 @@ publication with the UNECE Secretariat.
 | ~~`UNTDED2005_Redacted.pdf`~~ | The private working copy used for extraction — not distributed; the text layer it carried is fully covered by the original PDF above |
 | `front-matter/` | 300 dpi renders + tesseract OCR of pp. 1–4, 9–19 (from the original) |
 | `section-4.1-presentation.txt` | Text layer of section 4.1 — the printed change-tag legend |
+| `edifact-D01B/` | Full-text UNCL D.01B code lists (simples/) with section-4.1.5 cross-references; BSD conversion of the UNECE publication via fretlink/edi-parser (2026-09-07) |
 | `edifact-D05B/` | Mirror of the UN/EDIFACT D.05B directory metadata used for cross-checking + the cross-check report: `segments.xml` (EDED-by-segment) and `codes.xml` (UNCL code values, short names — fetched 2026-09-07) |
 | `AGENT-PROMPT-digitization.md` | The original digitization brief (provenance) |
 

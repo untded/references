@@ -1,0 +1,7 @@
+
+     1056  Version identifier                                      [B]
+
+     Desc: To identify a version.
+
+     Repr: an..9
+

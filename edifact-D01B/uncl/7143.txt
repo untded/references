@@ -1,0 +1,395 @@
+
+     7143  Item type identification code                           [C]
+
+     Desc: Coded identification of an item type.
+
+     Repr: an..3
+
+     AA    Product version number
+              Number assigned by manufacturer or seller to identify
+              the release of a product.
+
+     AB    Assembly
+              The item number is that of an assembly.
+
+     AC    HIBC (Health Industry Bar Code)
+              Article identifier used within health sector to indicate
+              data used conforms to HIBC.
+
+     AD    Cold roll number
+              Number assigned to a cold roll.
+
+     AE    Hot roll number
+              Number assigned to a hot roll.
+
+     AF    Slab number
+              Number assigned to a slab, which is produced in a
+              particular production step.
+
+     AG    Software revision number
+              A number assigned to indicate a revision of software.
+
+     AH    UPC (Universal Product Code) Consumer package code (1-5-5)
+              An 11-digit code that uniquely identifies consumer
+              packaging of a product; does not have a check digit.
+
+     AI    UPC (Universal Product Code) Consumer package code (1-5-5-
+           1)
+              A 12-digit code that uniquely identifies the consumer
+              packaging of a product, including a check digit.
+
+     AJ    Sample number
+              Number assigned to a sample.
+
+     AK    Pack number
+              Number assigned to a pack containing a stack of items
+              put together (e.g. cold roll sheets (steel product)).
+
+     AL    UPC (Universal Product Code) Shipping container code (1-2-
+           5-5)
+              A 13-digit code that uniquely identifies the
+              manufacturer's shipping unit, including the packaging
+              indicator.
+
+     AM    UPC (Universal Product Code)/EAN (European article number)
+           Shipping container code (1-2-5-5-1)
+              A 14-digit code that uniquely identifies the
+              manufacturer's shipping unit, including the packaging
+              indicator and the check digit.
+
+     AN    UPC (Universal Product Code) suffix
+              A suffix used in conjunction with a higher level UPC
+              (Universal product code) to define packing variations
+              for a product.
+
+     AO    State label code
+              A code which specifies the codification of the state's
+              labelling requirements.
+
+     AP    Heat number
+              Number assigned to the heat (also known as the iron
+              charge) for the production of steel products.
+
+     AQ    Coupon number
+              A number identifying a coupon.
+
+     AR    Resource number
+              A number to identify a resource.
+
+     AS    Work task number
+              A number to identify a work task.
+
+     AT    Price look up number
+              Identification number on a product allowing a quick
+              electronic retrieval of price information for that
+              product.
+
+     AU    NSN (North Atlantic Treaty Organization Stock Number)
+              Number assigned under the NATO (North Atlantic Treaty
+              Organization) codification system to provide the
+              identification of an approved item of supply.
+
+     AV    Refined product code
+              A code specifying the product refinement designation.
+
+     AW    Exhibit
+              A code indicating that the product is identified by an
+              exhibit number.
+
+     AX    End item
+              A number specifying an end item.
+
+     AY    Federal supply classification
+              A code to specify a product's Federal supply
+              classification.
+
+     AZ    Engineering data list
+              A code specifying the product's engineering data list.
+
+     BA    Milestone event number
+              A number to identify a milestone event.
+
+     BB    Lot number
+              A number indicating the lot number of a product.
+
+     BC    National drug code 4-4-2 format
+              A code identifying the product in national drug format
+              4-4-2.
+
+     BD    National drug code 5-3-2 format
+              A code identifying the product in national drug format
+              5-3-2.
+
+     BE    National drug code 5-4-1 format
+              A code identifying the product in national drug format
+              5-4-1.
+
+     BF    National drug code 5-4-2 format
+              A code identifying the product in national drug format
+              5-4-2.
+
+     BG    National drug code
+              A code specifying the national drug classification.
+
+     BH    Part number
+              A number indicating the part.
+
+     BI    Local Stock Number (LSN)
+              A local number assigned to an item of stock.
+
+     BJ    Next higher assembly number
+              A number specifying the next higher assembly or
+              component into which the product is being incorporated.
+
+     BK    Data category
+              A code specifying a category of data.
+
+     BL    Control number
+              To specify the control number.
+
+     BM    Special material identification code
+              A number to identify the special material code.
+
+     BN    Locally assigned control number
+              A number assigned locally for control purposes.
+
+     BO    Buyer's colour
+              Colour assigned by buyer.
+
+     BP    Buyer's part number
+              Reference number assigned by the buyer to identify an
+              article.
+
+     BQ    Variable measure product code
+              A code assigned to identify a variable measure item.
+
+     BR    Financial phase
+              To specify as an item, the financial phase.
+
+     BS    Contract breakdown
+              To specify as an item, the contract breakdown.
+
+     BT    Technical phase
+              To specify as an item, the technical phase.
+
+     BU    Dye lot number
+              Number identifying a dye lot.
+
+     BV    Daily statement of activities
+              A statement listing activities of one day.
+
+     BW    Periodical statement of activities within a bilaterally
+           agreed time period
+              Periodical statement listing activities within a
+              bilaterally agreed time period.
+
+     BX    Calendar week statement of activities
+              A statement listing activities of a calendar week.
+
+     BY    Calendar month statement of activities
+              A statement listing activities of a calendar month.
+
+     BZ    Original equipment number
+              Original equipment number allocated to spare parts by
+              the manufacturer.
+
+     CC    Industry commodity code
+              The codes given to certain commodities by an industry.
+
+     CG    Commodity grouping
+              Code for a group of articles with common characteristics
+              (e.g. used for statistical purposes).
+
+     CL    Colour number
+              Code for the colour of an article.
+
+     CR    Contract number
+              Reference number identifying a contract.
+
+     CV    Customs article number
+              Code defined by Customs authorities to an article or a
+              group of articles for Customs purposes.
+
+     DR    Drawing revision number
+              Reference number indicating that a change or revision
+              has been applied to a drawing.
+
+     DW    Drawing
+              Reference number identifying a drawing of an article.
+
+     EC    Engineering change level
+              Reference number indicating that a change or revision
+              has been applied to an article's specification.
+
+     EF    Material code
+              Code defining the material's type, surface, geometric
+              form plus various classifying characteristics.
+
+     EN    International Article Numbering Association (EAN)
+              Number assigned to a manufacturer's product according to
+              the International Article Numbering Association.
+
+     GB    Buyer's internal product group code
+              Product group code used within a buyer's internal
+              systems.
+
+     GN    National product group code
+              National product group code. Administered by a national
+              agency.
+
+     GS    General specification number
+              The item number is a general specification number.
+
+     HS    Harmonised system
+              The item number is part of, or is generated in the
+              context of the Harmonised Commodity Description and
+              Coding System (Harmonised System), as developed and
+              maintained by the World Customs Organization (WCO).
+
+     IB    ISBN (International Standard Book Number)
+              Self explanatory.
+
+     IN    Buyer's item number
+              The item number has been allocated by the buyer.
+
+     IS    ISSN (International Standard Serial Number)
+              Self explanatory.
+
+     IT    Buyer's style number
+              Number given by the buyer to a specific style or form of
+              an article, especially used for garments.
+
+     IZ    Buyer's size code
+              Code given by the buyer to designate the size of an
+              article in textile and shoe industry.
+
+     MA    Machine number
+              The item number is a machine number.
+
+     MF    Manufacturer's (producer's) article number
+              The number given to an article by its manufacturer.
+
+     MN    Model number
+              Reference number assigned by the manufacturer to
+              differentiate variations in similar products in a class
+              or group.
+
+     MP    Product/service identification number
+              Reference number identifying a product or service.
+
+     NB    Batch number
+              The item number is a batch number.
+
+     ON    Customer order number
+              Reference number of a customer's order.
+
+     PD    Part number description
+              Reference number identifying a description associated
+              with a number ultimately used to identify an article.
+
+     PL    Purchaser's order line number
+              Reference number identifying a line entry in a
+              customer's order for goods or services.
+
+     PO    Purchase order number
+              Reference number identifying a customer's order.
+
+     PV    Promotional variant number
+              The item number is a promotional variant number.
+
+     QS    Buyer's qualifier for size
+              The item number qualifies the size of the buyer.
+
+     RC    Returnable container number
+              Reference number identifying a returnable container.
+
+     RN    Release number
+              Reference number identifying a release from a buyer's
+              purchase order.
+
+     RU    Run number
+              The item number identifies the production or
+              manufacturing run or sequence in which the item was
+              manufactured, processed or assembled.
+
+     RY    Record keeping of model year
+              The item number relates to the year in which the
+              particular model was kept.
+
+     SA    Supplier's article number
+              Number assigned to an article by the supplier of that
+              article.
+
+     SG    Standard group of products (mixed assortment)
+              The item number relates to a standard group of other
+              items (mixed) which are grouped together as a single
+              item for identification purposes.
+
+     SK    SKU (Stock keeping unit)
+              Reference number of a stock keeping unit.
+
+     SN    Serial number
+              Identification number of an item which distinguishes
+              this specific item out of a number of identical items.
+
+     SRS   RSK number
+              Plumbing and heating.
+
+     SRT   IFLS (Institut Francais du Libre Service) 5 digit product
+           classification code
+              5 digit code for product classification managed by the
+              Institut Francais du Libre Service.
+
+     SRU   IFLS (Institut Francais du Libre Service) 9 digit product
+           classification code
+              9 digit code for product classification managed by the
+              Institut Francais du Libre Service.
+
+     SRV   EAN.UCC Global Trade Item Number
+              A unique number, up to 14-digits, assigned according to
+              the numbering structure of the EAN.UCC system. 'EAN'
+              stands for the 'International Article Numbering
+              Association', and 'UCC' for the 'Uniform Code Council'.
+
+     SS    Supplier's supplier article number
+              Article number referring to a sales catalogue of
+              supplier's supplier.
+
+     ST    Style number
+              Number given to a specific style or form of an article,
+              especially used for garments.
+
+     TG    Transport group number
+              Additional number to form article groups for packing
+              and/or transportation purposes.
+
+     UA    Ultimate customer's article number
+              Number assigned by ultimate customer to identify
+              relevant article.
+
+     UP    UPC (Universal product code)
+              Number assigned to a manufacturer's product by the
+              Product Code Council.
+
+     VN    Vendor item number
+              Reference number assigned by a vendor/seller identifying
+              a product/service/article.
+
+     VP    Vendor's (seller's) part number
+              Reference number assigned by a vendor/seller identifying
+              an article.
+
+     VS    Vendor's supplemental item number
+              The item number is a specified by the vendor as a
+              supplemental number for the vendor's purposes.
+
+     VX    Vendor specification number
+              The item number has been allocated by the vendor as a
+              specification number.
+
+     ZZZ   Mutually defined
+              A code assigned within a code list to be used on an
+              interim basis and as defined among trading partners
+              until a precise code can be assigned to the code list.
+
+

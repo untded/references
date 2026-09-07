@@ -1,0 +1,8 @@
+
+     8211  Hazardous cargo transport authorisation code            [B]
+
+     Desc: Code specifying the authorisation for the
+           transportation of hazardous cargo.
+
+     Repr: an..3
+

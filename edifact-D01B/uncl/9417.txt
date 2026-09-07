@@ -1,0 +1,24 @@
+
+     9417  Government action code                                  [B]
+
+     Desc: Code specifying a type of government action such as
+           inspection, detention, fumigation, security.
+
+     Repr: an..3
+
+     1     Clearance
+              The cargo will be or has been cleared.
+
+     2     Detention
+              The cargo has been or will be detained.
+
+     3     Fumigation
+              The cargo has been or will be fumigated.
+
+     4     Inspection
+              The cargo has been or will be inspected.
+
+     5     Security
+              The cargo has been or will be secured.
+
+

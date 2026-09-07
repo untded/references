@@ -1,0 +1,10 @@
+
+     8067  Transport mode name code                                [B]
+
+     Desc: Code specifying the name of a mode of transport.
+
+     Repr: an..3
+
+     Note: 
+           1 Use UN/ECE Recommendation No 19.
+

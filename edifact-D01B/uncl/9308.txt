@@ -1,0 +1,7 @@
+
+     9308  Seal identifier                                         [B]
+
+     Desc: To identify a seal.
+
+     Repr: an..35
+

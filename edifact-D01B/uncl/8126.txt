@@ -1,0 +1,7 @@
+
+     8126  Transport emergency card identifier                     [B]
+
+     Desc: To identify a transport emergency (TREM) card.
+
+     Repr: an..10
+

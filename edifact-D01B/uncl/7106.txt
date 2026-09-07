@@ -1,0 +1,7 @@
+
+     7106  Shipment flashpoint value                               [B]
+
+     Desc: To specify the value of the flashpoint of a shipment.
+
+     Repr: n3
+
