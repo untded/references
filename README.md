@@ -28,6 +28,15 @@ publication with the UNECE Secretariat.
 | `edifact-D05B/` | Mirror of the UN/EDIFACT D.05B directory metadata used for cross-checking + the cross-check report: `segments.xml` (EDED-by-segment) and `codes.xml` (UNCL code values, short names — fetched 2026-09-07) |
 | `AGENT-PROMPT-digitization.md` | The original digitization brief (provenance) |
 
+## License
+
+This repository contains no code. The mirrored documents are
+publications of UNECE and ISO, redistributed here with attribution for
+standards-maintenance purposes on behalf of UN/CEFACT and ISO/TC 154;
+they remain © their publishers. The README and the digitization notes
+are documentation of the untded project (MIT, same as the dataset and
+website repositories).
+
 ## Attribution
 
 The PDFs are the UN publication **ECE/TRADE/362** (also ISO 7372:2005),
