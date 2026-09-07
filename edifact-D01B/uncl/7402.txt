@@ -1,0 +1,7 @@
+
+     7402  Object identifier                                       [C]
+
+     Desc: Code specifying the unique identity of an object.
+
+     Repr: an..35
+

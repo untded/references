@@ -1,0 +1,7 @@
+
+     3036  Party name                                              [C]
+
+     Desc: Name of a party.
+
+     Repr: an..35
+

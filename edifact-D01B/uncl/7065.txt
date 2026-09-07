@@ -1,0 +1,11 @@
+
+     7065  Package type description code                           [B]
+
+     Desc: Code specifying the type of package.
+
+     Repr: an..17
+
+     Note: 
+           1 Recommend use UN/ECE Recommendation No. 21 (also,
+           see current volume of UNTDED).
+

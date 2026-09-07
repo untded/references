@@ -1,0 +1,7 @@
+
+     3224  Location name                                           [C]
+
+     Desc: Name of the location.
+
+     Repr: an..256
+

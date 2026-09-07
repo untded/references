@@ -1,0 +1,7 @@
+
+     6432  Significant digits quantity                             [B]
+
+     Desc: Count of the number of significant digits.
+
+     Repr: n..2
+

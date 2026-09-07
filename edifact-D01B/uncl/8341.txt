@@ -1,0 +1,16 @@
+
+     8341  Haulage arrangements code                               [B]
+
+     Desc: Code specifying the arrangement for the haulage of
+           goods.
+
+     Repr: an..3
+
+     1     Carrier
+              Haulage arranged by carrier.
+
+     2     Merchant
+              Haulage arranged by merchant (shipper, consignee, or
+              their agent).
+
+

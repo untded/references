@@ -1,0 +1,7 @@
+
+     5284  Unit price basis value                                  [B]
+
+     Desc: To specify the basis for a unit price.
+
+     Repr: n..9
+

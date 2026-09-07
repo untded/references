@@ -1,0 +1,27 @@
+
+     8323  Transport movement code                                 [B]
+
+     Desc: Code specifying the transport movement.
+
+     Repr: an..3
+
+     1     Export
+              Self explanatory.
+
+     2     Import
+              Self explanatory.
+
+     3     Transit
+              The cargo is moving in transit through a country and
+              will not become part of the commerce of that country.
+
+     4     Relay
+              The cargo is being moved by more than one transport
+              means in succession under the responsibility of the same
+              carrier.
+
+     5     Transshipment
+              The cargo is being moved by more than one transport
+              means in succession.
+
+

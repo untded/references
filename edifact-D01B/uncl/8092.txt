@@ -1,0 +1,7 @@
+
+     8092  Hazard code version identifier                          [B]
+
+     Desc: To identify the version number of a hazard code.
+
+     Repr: an..10
+

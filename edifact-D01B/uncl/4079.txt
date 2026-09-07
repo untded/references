@@ -1,0 +1,17 @@
+
+     4079  Handling instruction description code                   [B]
+
+     Desc: Code specifying a handling instruction.
+
+     Repr: an..3
+
+     1     Heat sensitive
+              The object is heat sensitive.
+
+     2     Store in dry environment
+              The object must be stored in dry environment.
+
+     3     Stacked
+              The identified item is, or can be stacked.
+
+

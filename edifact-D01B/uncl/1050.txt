@@ -1,0 +1,7 @@
+
+     1050  Sequence position identifier                            [C]
+
+     Desc: To identify a position in a sequence.
+
+     Repr: an..10
+

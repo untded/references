@@ -1,0 +1,7 @@
+
+     3412  Department or employee name                             [B]
+
+     Desc: Name of a department or employee.
+
+     Repr: an..35
+

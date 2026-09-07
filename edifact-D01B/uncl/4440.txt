@@ -1,0 +1,7 @@
+
+     4440  Free text value                                         [C]
+
+     Desc: Free form text.
+
+     Repr: an..512
+

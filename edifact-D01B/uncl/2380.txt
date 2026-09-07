@@ -1,0 +1,8 @@
+
+     2380  Date or time or period value                            [C]
+
+     Desc: The value of a date, a date and time, a time or of a
+           period in a specified representation.
+
+     Repr: an..35
+

@@ -1,0 +1,10 @@
+
+     3251  Postal identification code                              [C]
+
+     Desc: Code specifying the postal zone or address.
+
+     Repr: an..17
+
+     Note: 
+           1 Use code defined by appropriate national authority.
+

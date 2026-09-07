@@ -1,0 +1,7 @@
+
+     3222  First related location name                             [B]
+
+     Desc: Name of first related location.
+
+     Repr: an..70
+

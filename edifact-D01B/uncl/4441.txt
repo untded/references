@@ -1,0 +1,7 @@
+
+     4441  Free text value code                                    [B]
+
+     Desc: Code specifying free form text.
+
+     Repr: an..17
+

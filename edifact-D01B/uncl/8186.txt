@@ -1,0 +1,9 @@
+
+     8186  Orange hazard placard lower part identifier             [B]
+
+     Desc: To specify the identity number for the lower part of
+           the orange hazard placard required on the means of
+           transport.
+
+     Repr: an4
+

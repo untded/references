@@ -1,0 +1,7 @@
+
+     6140  Width dimension value                                   [C]
+
+     Desc: To specify the value of a width dimension.
+
+     Repr: n..15
+

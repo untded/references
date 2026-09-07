@@ -1,0 +1,7 @@
+
+     8078  Additional hazard classification identifier             [B]
+
+     Desc: To identify an additional hazard classification.
+
+     Repr: an..7
+

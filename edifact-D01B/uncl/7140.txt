@@ -1,0 +1,7 @@
+
+     7140  Item identifier                                         [C]
+
+     Desc: To identify an item.
+
+     Repr: an..35
+

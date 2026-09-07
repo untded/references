@@ -1,0 +1,7 @@
+
+     8246  Dangerous goods marking identifier                      [B]
+
+     Desc: To identify the marking of dangerous goods.
+
+     Repr: an..4
+

@@ -1,0 +1,7 @@
+
+     5479  Relation code                                           [C]
+
+     Desc: Code specifying a relation.
+
+     Repr: an..3
+

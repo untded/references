@@ -1,0 +1,8 @@
+
+     7088  Dangerous goods flashpoint value                        [B]
+
+     Desc: To specify the value of the flashpoint of dangerous
+           goods.
+
+     Repr: an..8
+

@@ -1,0 +1,8 @@
+
+     5242  Rate or tariff class description                        [B]
+
+     Desc: Free form description of an applicable rate or tariff
+           class.
+
+     Repr: an..35
+

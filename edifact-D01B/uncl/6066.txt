@@ -1,0 +1,7 @@
+
+     6066  Control total value                                     [B]
+
+     Desc: To specify the value of a control quantity.
+
+     Repr: n..18
+

@@ -1,0 +1,7 @@
+
+     3164  City name                                               [C]
+
+     Desc: Name of a city.
+
+     Repr: an..35
+

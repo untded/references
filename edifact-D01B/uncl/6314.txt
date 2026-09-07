@@ -1,0 +1,7 @@
+
+     6314  Measurement value                                       [C]
+
+     Desc: To specify the value of a measurement.
+
+     Repr: an..18
+

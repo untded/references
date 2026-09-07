@@ -1,0 +1,8 @@
+
+     5402  Currency exchange rate                                  [C]
+
+     Desc: To specify the rate at which one specified currency is
+           expressed in another specified currency.
+
+     Repr: n..12
+

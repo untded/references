@@ -1,0 +1,7 @@
+
+     3232  Second related location name                            [B]
+
+     Desc: Name of the second related location.
+
+     Repr: an..70
+

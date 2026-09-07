@@ -1,0 +1,7 @@
+
+     7102  Shipping marks description                              [B]
+
+     Desc: Free form description of the shipping marks.
+
+     Repr: an..35
+

@@ -1,0 +1,8 @@
+
+     8410  Hazard medical first aid guide identifier               [B]
+
+     Desc: To identify a Medical First Aid Guide (MFAG) for
+           hazardous goods.
+
+     Repr: an..4
+

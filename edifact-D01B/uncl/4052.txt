@@ -1,0 +1,7 @@
+
+     4052  Delivery or transport terms description                 [B]
+
+     Desc: Free form description of delivery or transport terms.
+
+     Repr: an..70
+

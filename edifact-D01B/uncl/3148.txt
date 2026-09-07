@@ -1,0 +1,7 @@
+
+     3148  Communication address identifier                        [C]
+
+     Desc: To identify a communication address.
+
+     Repr: an..512
+

@@ -1,0 +1,7 @@
+
+     5482  Percentage                                              [C]
+
+     Desc: To specify a percentage.
+
+     Repr: n..10
+

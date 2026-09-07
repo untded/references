@@ -1,0 +1,7 @@
+
+     4078  Handling instruction description                        [B]
+
+     Desc: Free form description of a handling instruction.
+
+     Repr: an..70
+

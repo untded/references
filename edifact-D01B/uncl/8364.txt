@@ -1,0 +1,8 @@
+
+     8364  Emergency procedure for ships identifier                [B]
+
+     Desc: To identify the emergency procedure number for ships
+           transporting dangerous goods. Synonym: EMS Number.
+
+     Repr: an..6
+

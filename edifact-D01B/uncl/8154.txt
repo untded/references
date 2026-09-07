@@ -1,0 +1,8 @@
+
+     8154  Equipment size and type description                     [C]
+
+     Desc: Free form description of the size and type of
+           equipment.
+
+     Repr: an..35
+

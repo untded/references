@@ -1,0 +1,7 @@
+
+     1490  Consolidation item number                               [B]
+
+     Desc: To specify a consignment within a consolidation.
+
+     Repr: n..4
+

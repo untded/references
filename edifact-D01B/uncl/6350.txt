@@ -1,0 +1,7 @@
+
+     6350  Units quantity                                          [C]
+
+     Desc: To specify the number of units.
+
+     Repr: n..15
+

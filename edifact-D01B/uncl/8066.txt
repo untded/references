@@ -1,0 +1,7 @@
+
+     8066  Transport mode name                                     [B]
+
+     Desc: Name of a mode of transport.
+
+     Repr: an..17
+

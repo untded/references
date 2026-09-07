@@ -1,0 +1,9 @@
+
+     7124  United Nations Dangerous Goods (UNDG) identifier        [B]
+
+     Desc: The unique serial number assigned within the United
+           Nations to substances and articles contained in a list
+           of the dangerous goods most commonly carried.
+
+     Repr: n4
+

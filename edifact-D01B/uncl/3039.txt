@@ -1,0 +1,7 @@
+
+     3039  Party identifier                                        [C]
+
+     Desc: Code specifying the identity of a party.
+
+     Repr: an..35
+

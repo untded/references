@@ -1,0 +1,7 @@
+
+     7064  Type of packages                                        [B]
+
+     Desc: Description of the form in which goods are presented.
+
+     Repr: an..35
+

@@ -1,0 +1,7 @@
+
+     8255  Packing instruction type code                           [B]
+
+     Desc: Code specifying a type of packing instruction.
+
+     Repr: an..3
+

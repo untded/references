@@ -1,0 +1,10 @@
+
+|    6411  Measurement unit code                                   [C]
+
+     Desc: Code specifying the unit of measurement.
+
+     Repr: an..3
+
+     Note: 
+|          1 Recommend use UN/ECE Recommendation 20, Common code.
+

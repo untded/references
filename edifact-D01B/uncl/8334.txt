@@ -1,0 +1,7 @@
+
+     8334  Movement type description                               [B]
+
+     Desc: Free form description of a type of movement.
+
+     Repr: an..35
+

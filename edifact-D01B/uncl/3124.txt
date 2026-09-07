@@ -1,0 +1,7 @@
+
+     3124  Name and address description                            [C]
+
+     Desc: Free form description of a name and address line.
+
+     Repr: an..35
+

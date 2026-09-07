@@ -1,0 +1,13 @@
+
+     7511  Marking type code                                       [B]
+
+     Desc: Code specifying the type of marking.
+
+     Repr: an..3
+
+     1     Not marked with an EAN.UCC system code
+              Indication that the package is not marked with an
+              EAN.UCC (International Article Numbering.Uniform Code
+              Council) system code.
+
+

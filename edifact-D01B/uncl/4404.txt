@@ -1,0 +1,7 @@
+
+     4404  Status description                                      [B]
+
+     Desc: Free form description of a status.
+
+     Repr: an..35
+

@@ -1,0 +1,11 @@
+
+|    8453  Transport means nationality code                        [B]
+
+     Desc: Code specifying the nationality of a means of
+           transport.
+
+     Repr: an..3
+
+     Note: 
+|          1 Use ISO 3166-1 two alpha country code.
+

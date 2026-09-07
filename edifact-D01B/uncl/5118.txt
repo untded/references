@@ -1,0 +1,7 @@
+
+     5118  Price amount                                            [C]
+
+     Desc: To specify a price.
+
+     Repr: n..15
+

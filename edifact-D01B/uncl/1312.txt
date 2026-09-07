@@ -1,0 +1,8 @@
+
+     1312  Consignment load sequence identifier                    [B]
+
+     Desc: To identify the loading sequence of a consignment or
+           consignments.
+
+     Repr: n..4
+

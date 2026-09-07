@@ -1,0 +1,7 @@
+
+     8212  Transport means identification name                     [B]
+
+     Desc: Name identifying a means of transport.
+
+     Repr: an..35
+
