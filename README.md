@@ -19,7 +19,9 @@ publication with the UNECE Secretariat.
 | Path | What it is |
 |---|---|
 | `UNTDED2005.pdf` | Full original scan, 132 pp (damaged xref — render with `mutool`, not `pdftoppm`) |
-| `UNTDED2005_Redacted.pdf` | Working copy: pp. 20–132 carry the OCR text layer used for extraction; pp. 1–4, 9–19 blanked; pp. 5–8 the original Volumes II/III note + Foreword with a text layer |
+| `ECE_TRADE_432E_CF-Rec1.pdf` | UNECE Recommendation No. 1 — United Nations Layout Key for Trade Documents (ECE/TRADE/432), the master form the directory's UNLK bridges reference |
+| `ISO-3535-1977-preview.pdf` | Preview of ISO 3535:1977 — Forms design sheet and layout chart (referenced by the publication's references) |
+| ~~`UNTDED2005_Redacted.pdf`~~ | The private working copy used for extraction — not distributed; the text layer it carried is fully covered by the original PDF above |
 | `front-matter/` | 300 dpi renders + tesseract OCR of pp. 1–4, 9–19 (from the original) |
 | `section-4.1-presentation.txt` | Text layer of section 4.1 — the printed change-tag legend |
 | `edifact-D05B/` | Mirror of the UN/EDIFACT D.05B directory metadata used for cross-checking + the cross-check report: `segments.xml` (EDED-by-segment) and `codes.xml` (UNCL code values, short names — fetched 2026-09-07) |
